@@ -1,0 +1,38 @@
+body {
+    margin: 0px
+}
+
+header {
+    background-color: yellow;
+    font-family: Arial;
+}
+
+header h1 {
+    margin: 0px;
+    padding: 10px;
+    font-size: 250%;
+}
+
+.menu { 
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: rgb(1, 165, 1);
+}
+
+.menu li {
+    float: left;
+    border-right: 1px solid black;}
+
+.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+}
+
+.menu li:last-child { 
+    border-right: none;
+}

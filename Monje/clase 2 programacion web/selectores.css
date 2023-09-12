@@ -1,0 +1,28 @@
+p{
+    color: blue;
+    font-family: Arial;
+}
+h1{
+    background-color: aqua;
+}
+
+/*selectores descendientes*/
+
+#texto{
+    color: red;
+    font-weight: bold;
+}
+
+/*selectores tipo clase*/
+
+.sangria{
+    padding-left: 50px;
+}
+/*selectores combinacion*/
+
+h2 , h3{
+background-color: yellow;
+border-left: solid blue 10px;
+padding-left: 20px;
+}
+

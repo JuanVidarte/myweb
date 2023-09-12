@@ -1,0 +1,15 @@
+header {
+    background-color: yellow;
+    border: ridge red;
+}
+
+header h1 {
+    margin: 20px;
+    padding: 10px;
+    font-size: 250%;
+}
+
+nav li {
+    margin: 0px;
+    background-color: green;
+}

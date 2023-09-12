@@ -1,0 +1,39 @@
+* {
+    margin: 7px;
+}
+
+/* selectores de etiqueta */
+
+p{
+    color: #00f;
+    font-family: Arial
+}
+
+h1{
+    background-color: aqua;
+}
+
+/*selectores descendientes*/
+
+p a {
+    font-weight: bold;
+}
+
+#texto {
+    color: red;
+    font-weight: bold;
+}
+
+/* selector tipo clase */
+
+.sangria{
+    padding-left: 50px;
+}
+
+/* combinacion de selectores */
+
+h2, h3{
+    background-color: yellow;
+    border-left: dashed blue 10px;
+    padding-left: 20px;
+}

@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+   
+}
+
+.footer{
+background-color:  yellow;
+font-family: Arial;
+padding: 5px;
+font-weight: bold;
+clear: both;
+margin: 0px;
+border-top: 2px solid black;
+
+}
